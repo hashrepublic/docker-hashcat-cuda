@@ -1,6 +1,5 @@
 # HashRepublic Hashcat Docker Image
-
-Welcome to the official Docker image repository for **HashRepublic**, a GPU renting solution that runs parallelized **Hashcat** instances over the internet.   
+Welcome to the official Docker image repository for **HashRepublic**, a GPU renting solution that runs parallelized **Hashcat** instances over the internet (see [hashrepublic.net](https://www.hashrepublic.net)).   
 This image is optimized for running Hashcat in distributed environments, and it's been carefully crafted to deliver high performance with a minimal footprint, clocking in at only **1.61 GB**.
 
 ## Features
